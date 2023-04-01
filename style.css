@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(135deg, rgb(39, 116, 216), rgb(145, 193, 255));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#newTask {
+    background-color: #fff;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #00000036;
+    width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#newTask input{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #0000006e;
+}
+#newTask input:focus {
+    outline: none;
+    border-color: #1194ec;
+    box-shadow: 0 0 10px #83cdff;
+}
+
+#newTask button{
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #1194ec;
+    color: #fff;
+    transition: 0.5s ease;
+}
+
+#newTask button:hover{
+    box-shadow: 0 0 10px #1194ec;
+}
+
+#task{
+    background-color: #fff;
+    padding: 30px 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1194ec;
+    width: 100%;
+}
+
+.task {
+    background-color: #fff;
+    height: 50px;
+    padding: 5px 10px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #e0e0e0;
+    cursor: pointer;
+}
+
+.task span {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.task button {
+    background-color: #1194ec;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+}
+
+.completed {
+    text-decoration: line-through;
+}
