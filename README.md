@@ -6,4 +6,4 @@
 
 ## Tutorial
 
-[[YouTube Tutorial](https://i.ytimg.com/vi/cOUNOi297Mw/maxresdefault.jpg)(https://www.youtube.com/watch?v=cOUNOi297Mw)]
+[YouTube Tutorial]([(https://i.ytimg.com/vi/cOUNOi297Mw/maxresdefault.jpg)]https://www.youtube.com/watch?v=cOUNOi297Mw)]
