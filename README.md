@@ -6,5 +6,5 @@
 
 ## Tutorial
 
-[![Todo List Tutorial](https://i.ytimg.com/vi/cOUNOi297Mw/maxresdefault.jpg)]([https://www.youtube.com/embed/cOUNOi297Mw](https://www.youtube.com/watch?v=cOUNOi297Mw&t=1s&ab_channel=CodingArtist))
+[![Todo List Tutorial](https://i.ytimg.com/vi/cOUNOi297Mw/maxresdefault.jpg)](https://www.youtube.com/watch?v=cOUNOi297Mw&t=1s&ab_channel=CodingArtist)
 
