@@ -6,5 +6,5 @@
 
 ## Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cOUNOi297Mw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Todo List Tutorial](https://i.ytimg.com/vi/cOUNOi297Mw/maxresdefault.jpg)](https://www.youtube.com/embed/cOUNOi297Mw)
 
